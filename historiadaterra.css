@@ -1,0 +1,18 @@
+h1{
+    font-size: 900%;
+    margin: 10%;
+}
+
+p{
+ font-size: 700%; 
+ margin: 3%;
+ color: black;
+ text-shadow: 2px 4px 4px ; 
+}
+img{
+    margin: 5%;
+    box-shadow: 4px 5px 26px #0000a0 ;
+}
+body{
+    background:  darkgray;    
+}
